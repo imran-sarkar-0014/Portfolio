@@ -5,8 +5,10 @@ const Contact = () => {
         <section className='contact container'>
             <div className="center">
 
+
+
                 <div className="contact-container">
-                    <a href='https://github.com/imran-sarkar-ac' className="link-with-logo">
+                    <a href='https://github.com/imran-sarkar-0014/' className="link-with-logo">
                         <img src="/github.png" alt="" className="info-logo" />
                         <h6 className='contact-label'>View GitHub Page</h6>
                     </a>

@@ -8,7 +8,7 @@ const Projects = () => {
                 <img className='project-img' src="/notepaper.jpg" alt="" />
                 <h2 className="project-bottom">
                     <a href="http://notepaper123.herokuapp.com/" className="project-button">Go Web</a>
-                    <a href="https://github.com/imran-sarkar-ac/Note-paper" className="project-button">View Code</a>
+                    <a href="https://github.com/imran-sarkar-0014/Note-Paper/" className="project-button">View Code</a>
                 </h2>
             </div>
             <div className="project-container">
@@ -16,7 +16,7 @@ const Projects = () => {
                 <img className='project-img' src="/chatapp.png" alt="" />
                 <h2 className="project-bottoms">
                     <a href="http://chatapp0012.herokuapp.com/" className="project-button">Go Web</a>
-                    <a href="https://github.com/imran-sarkar-ac/chatapp/" className="project-button">View Code</a>
+                    <a href="https://github.com/imran-sarkar-0014/chat-app/" className="project-button">View Code</a>
                 </h2>
             </div>
 
