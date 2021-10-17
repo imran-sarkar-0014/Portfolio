@@ -157,6 +157,8 @@ nav {
 .btn-outlined {
     padding: 8px 12px;
     border-radius: 15px;
+    text-decoration: none;
+    font-weight: 700;
     border: 2px solid var(--primary);
     color: var(--primary);
     cursor: pointer;
@@ -170,6 +172,7 @@ nav {
 
 .btn-outlined:hover {
     background-color: var(--primary);
+
     color: #fff;
 }
 
@@ -205,6 +208,10 @@ nav {
         padding: 8px 12px;
         border-radius: 20px;
         font-size: .75rem;
+    }
+
+    .cv-container {
+        flex-direction: column;
     }
 }
 

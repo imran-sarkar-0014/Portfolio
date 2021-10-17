@@ -17,6 +17,8 @@ const About = () => {
                     <img className='boy-img' src="/boy.png" alt="" />
                 </div>
                 <div className="cv-container">
+                    <a download href="/Imran Sarkar.pdf" className="btn-outlined">Download CV</a>
+                    <div className="cv-desc">Read My CV and know myself.</div>
                 </div>
             </div>
         </section>
